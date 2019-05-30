@@ -1,10 +1,579 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/poreit/file_move_file.py" line="47" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10070365-bb0f-41b9-9ca1-a3ae9b89712c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/poreit/read_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/requests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/requests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeautifulSoup的使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XPath的使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬取即将上映的电影.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬取即将上映的电影.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="requests" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="000.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/000.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\</find>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>H:\requests</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/解析库/123.py" />
+        <option value="$PROJECT_DIR$/解析库/0000.py" />
+        <option value="$PROJECT_DIR$/解析库/10.py" />
+        <option value="$PROJECT_DIR$/解析库/my_car.py" />
+        <option value="H:/QQ储存资料/halfCofig.py" />
+        <option value="H:/CG/tsd/project/js/halfCofig.py" />
+        <option value="H:/CG/tsd/project/js/neg.py" />
+        <option value="H:/CG/kai/project/tool_pick_sample/phone_smoke/move_file.py" />
+        <option value="$PROJECT_DIR$/111.py" />
+        <option value="$PROJECT_DIR$/解析库/my_electric_car.py" />
+        <option value="$PROJECT_DIR$/move_file.py" />
+        <option value="$PROJECT_DIR$/aaad.py" />
+        <option value="$PROJECT_DIR$/解析库/car.py" />
+        <option value="$PROJECT_DIR$/解析库/name_function.py" />
+        <option value="$PROJECT_DIR$/解析库/test_name_function.py" />
+        <option value="$PROJECT_DIR$/解析库/names.py" />
+        <option value="$PROJECT_DIR$/poreit/file_move_file.py" />
+        <option value="$PROJECT_DIR$/poreit/file_move.py" />
+        <option value="$PROJECT_DIR$/poreit/img_move.py" />
+        <option value="$PROJECT_DIR$/shut_move_3.py" />
+        <option value="$PROJECT_DIR$/000.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="951" />
+    <option name="y" value="4" />
+    <option name="width" value="993" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="requests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="requests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="requests" type="462c0819:PsiDirectoryNode" />
+              <item name="poreit" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="aliens" type="cbb8eebc:String" user="aliens" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="H:/alien_inwvasion" />
+    <property name="last_opened_file_path" value="H:/aliens" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.folder" value="H:/aliens" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\requests\poreit" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.shut_move_3">
+    <configuration name="file_move" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="requests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/poreit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poreit/file_move.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="file_move_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="requests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/poreit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poreit/file_move_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="img_move" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="requests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/poreit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poreit/img_move.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="shut_move_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="requests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="H:\requests\000.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests for test_name_function.NamesTestCase.test_first_last_maiddle_name" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="requests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/解析库" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_name_function.NamesTestCase.test_first_last_maiddle_name&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_name_function.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="requests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/解析库" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/解析库/test_name_function.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in test_name_function.py" />
+      <item itemvalue="Python.img_move" />
+      <item itemvalue="Python.shut_move_3" />
+      <item itemvalue="Python tests.Unittests for test_name_function.NamesTestCase.test_first_last_maiddle_name" />
+      <item itemvalue="Python.file_move_file" />
+      <item itemvalue="Python.file_move" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.shut_move_3" />
+        <item itemvalue="Python.img_move" />
+        <item itemvalue="Python.file_move" />
+        <item itemvalue="Python.file_move_file" />
+        <item itemvalue="Python tests.Unittests for test_name_function.NamesTestCase.test_first_last_maiddle_name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10070365-bb0f-41b9-9ca1-a3ae9b89712c" name="Default" comment="" />
+      <created>1553741793550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553741793550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_name_function_NamesTestCase_test_first_last_name - 2019.05.21 at 10h 11m 27s.xml">
+      <configuration name="Unittests for test_name_function.NamesTestCase.test_first_last_name" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2019.05.21 at 10h 16m 07s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2019.05.21 at 10h 16m 40s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_name_function_NamesTestCase_test_first_last_name - 2019.05.21 at 10h 17m 27s.xml">
+      <configuration name="Unittests for test_name_function.NamesTestCase.test_first_last_name" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2019.05.21 at 10h 18m 55s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2019.05.21 at 10h 26m 39s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2019.05.21 at 10h 37m 03s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_name_function_NamesTestCase - 2019.05.27 at 15h 48m 55s.xml">
+      <configuration name="Unittests for test_name_function.NamesTestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2019.05.27 at 15h 48m 59s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_name_function_NamesTestCase_test_first_last_maiddle_name - 2019.05.27 at 15h 49m 08s.xml">
+      <configuration name="Unittests for test_name_function.NamesTestCase.test_first_last_maiddle_name" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="951" y="4" width="993" height="1042" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19476439" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27589968" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293348" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3293348" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24921466" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32890365" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39585605" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32984293" />
+      <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32929516" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
+    </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://H:/CG/tsd/Detector/maskrcnn/mrcnn/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6360">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/CG/tsd/project/lib/pnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/CG/tsd/project/lib/mtcnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2160" />
+      </provider>
+    </entry>
+    <entry file="file://H:/CG/tsd/project/tools/mtcnn2maskrcnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1890">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python_work/练习/0000.py" />
+    <entry file="file://H:/python_work/练习/ada.py" />
+    <entry file="file://H:/CG/tsd/project/tools/video2img.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2520" />
+      </provider>
+    </entry>
+    <entry file="file://H:/CG/tsd/project/tools2/preprocessing/video2yolo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-693">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ANACONDA/Lib/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-853">
+          <caret line="547" column="40" lean-forward="true" selection-start-line="547" selection-start-column="40" selection-end-line="547" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/CG/tsd/project/tools2/compare_two_algorithm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="41" column="41" lean-forward="true" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/CG/tsd/project/tools2/preprocessing/video2img.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2820">
+          <caret line="96" column="65" lean-forward="true" selection-start-line="96" selection-start-column="65" selection-end-line="96" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/CG/tsd/00.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/CG/刘吉/up_img/copy_by_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/正在上映的电影.text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.csv" />
+    <entry file="file://$PROJECT_DIR$/0.0.py" />
+    <entry file="file://$PROJECT_DIR$/解析库/10.py" />
+    <entry file="file://$PROJECT_DIR$/解析库/my_car.py" />
+    <entry file="file://H:/QQ储存资料/halfCofig.py" />
+    <entry file="file://H:/QQ储存资料/neg.json" />
+    <entry file="file://H:/CG/tsd/project/js/halfCofig.py" />
+    <entry file="file://H:/CG/tsd/project/js/neg.json" />
+    <entry file="file://H:/CG/tsd/project/js/neg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/ANACONDA/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="198" selection-start-line="198" selection-end-line="198" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/CG/kai/move_img.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/CG/kai/project/tool_pick_sample/phone_smoke/move_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/解析库/name.txt" />
+    <entry file="file://$PROJECT_DIR$/numbers.json" />
+    <entry file="file://$PROJECT_DIR$/a.json" />
+    <entry file="file://$PROJECT_DIR$/name.json" />
+    <entry file="file://$PROJECT_DIR$/111.py" />
+    <entry file="file://$PROJECT_DIR$/解析库/my_electric_car.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/917457739/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="475" column="4" selection-start-line="475" selection-start-column="4" selection-end-line="475" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/move_file.py" />
+    <entry file="file://$PROJECT_DIR$/aaad.py" />
+    <entry file="file://$PROJECT_DIR$/解析库/name.json" />
+    <entry file="file://$PROJECT_DIR$/poreit/opcv_move.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/解析库/car.py" />
+    <entry file="file://$PROJECT_DIR$/warpAffine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-880" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/解析库/0000.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requests_s.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/解析库/names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/解析库/test_name_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/解析库/name_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poreit/img_move.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poreit/file_move_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poreit/read_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬取正在上映的电影.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poreit/file_move.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/000.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>
